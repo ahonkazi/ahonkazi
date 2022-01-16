@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahonkazi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c and c++
+- 🌱 I’m currently learning web design and development..
 
 <!---
 ahonkazi/ahonkazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
