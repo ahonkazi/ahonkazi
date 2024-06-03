@@ -25,7 +25,7 @@ Here are some of the projects I have worked on:
 
 ## Education
 - **Institution:** TMSS Polytechnic institute,Rangpur.
-- **Semester:** 5th Semester
+- **Semester:**6th Semester
 - **Field of Study:** Computer Science
 
 ## Contact
